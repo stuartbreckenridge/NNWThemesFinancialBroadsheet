@@ -7,12 +7,7 @@
 
 ## Screenshots
 
-### iPhone
-![iphone](https://user-images.githubusercontent.com/7046652/133397389-64748ba8-a396-4633-a356-1da8a97a82d9.png)
-
-### iPad
-![iPad](https://user-images.githubusercontent.com/7046652/133399073-192830c5-d08b-48cc-ad52-23c18fe7c1cc.png)
-
 ### Mac
-![mac-light](https://user-images.githubusercontent.com/7046652/133399484-acd6d66a-c3dd-4a98-a0a6-a717aac1a209.png)
-![mac-dark](https://user-images.githubusercontent.com/7046652/133399533-1e776e29-280c-4da1-b158-b24145dd0eda.png)
+
+<img width="1531" height="1011" alt="Screenshot 2025-07-12 at 21 54 05" src="https://github.com/user-attachments/assets/74ecf56e-5e76-479c-8818-64ab30bd6cad" />
+<img width="1531" height="1011" alt="Screenshot 2025-07-12 at 21 53 41" src="https://github.com/user-attachments/assets/167b0d12-3da6-4ed2-a2f2-b04884bdc86c" />
